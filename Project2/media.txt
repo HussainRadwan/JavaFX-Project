@@ -1,0 +1,5 @@
+Movie [title=asd, NOC=1, rating=HR, code=897]
+Movie [title=asd, NOC=3, rating=HR, code=45676]
+Game [title=asd, NOC=3, weight=5555.0, code=12002]
+Album [title=asd, NOC=0, artist=asd, song=zxc, code=123]
+Game [title=any, NOC=5, weight=4.0, code=12345]

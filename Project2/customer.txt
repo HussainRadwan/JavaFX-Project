@@ -1,0 +1,5 @@
+Customers [name=hh, addres=dd, plan=UNLIMITED, mobile=12345678, ID=1234]
+Customers [name=hussain, addres=dana, plan=UNLIMITED, mobile=LOVE, ID=1234567]
+Customers [name=Dana, addres=Hussain, plan=UNLIMITED, mobile=LOVE, ID=0987654321]
+Customers [name=husa, addres=543, plan=UNLIMITED, mobile=98762, ID=123]
+Customers [name=Huusain, addres=123123, plan=UNLIMITED, mobile=123123, ID=1]
